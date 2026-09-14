@@ -553,7 +553,7 @@ const ProductCreate = () => {
               id="product-name"
               value={productName}
               onChange={(event) => setProductName(event.target.value)}
-              placeholder="e.g. smoothshine Car Shampoo"
+              placeholder="e.g. E-NIVIORA Car Shampoo"
               disabled={isSubmitting}
               maxLength={200}
             />

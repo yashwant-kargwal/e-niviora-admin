@@ -41,7 +41,7 @@ const Sidebar = ({ mobile = false, onNavigate }: SidebarProps) => {
       {/* Logo */}
       <div className="flex h-16 items-center px-6">
         <div>
-          <h1 className="text-lg font-bold tracking-tight">Smoothshine</h1>
+          <h1 className="text-lg font-bold tracking-tight">E-NIVIORA</h1>
 
           <p className="text-xs text-muted-foreground">Admin Panel</p>
         </div>

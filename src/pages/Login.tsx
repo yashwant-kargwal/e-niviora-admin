@@ -77,7 +77,7 @@ const Login = () => {
           <CardTitle className="text-2xl">Admin Login</CardTitle>
 
           <CardDescription>
-            Login to access the Smoothshine admin panel.
+            Login to access the E-NIVIORA admin panel.
           </CardDescription>
         </CardHeader>
 

@@ -273,7 +273,7 @@ export default function Setting() {
                   onChange={(event) =>
                     updateField("heading", event.target.value)
                   }
-                  placeholder="Welcome to Smoothshine"
+                  placeholder="Welcome to E-NIVIORA"
                 />
               </div>
 

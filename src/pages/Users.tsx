@@ -667,7 +667,7 @@ const Users = () => {
                 type="email"
                 value={adminEmail}
                 onChange={(event) => setAdminEmail(event.target.value)}
-                placeholder="admin@smoothshine.com"
+                placeholder="admin@E-NIVIORA.com"
               />
             </div>
 
